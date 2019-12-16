@@ -22,13 +22,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .container{
-  background-color: #d6d6d6
+  background-color: #d6d6d6;
 
+}
+
+#featured{
+  background-color: #EAE4E3;
 }
 
 /*Cards*/
 .card{
-  background-color: #5D6D7E
+  background-color: #5D6D7E;
 }
 
 .card-title{
